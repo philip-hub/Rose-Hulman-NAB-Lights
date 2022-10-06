@@ -7,3 +7,4 @@
 
 **Fireplace**
  - Mmm, toasty just in time for winter
+**Fireworks**
