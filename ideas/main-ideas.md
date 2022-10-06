@@ -1,6 +1,4 @@
 # Program Ideas
-Potential programs to write for the light display.
----
 **Snake**
  - Maybe not interactive, could be slow
 
